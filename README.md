@@ -4,7 +4,7 @@ This project aims to combine a reference/style image with a target image to gene
 
 ADVAITHA S
 
-AFNAAN MOHAMMED S
+AFNAAN MOHAMMED S PES2UG21CS042
 
 ANURAG RAJKUMAR VADHYAR
 
