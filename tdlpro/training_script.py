@@ -145,4 +145,3 @@ if __name__ == "__main__":
     training_config['batch_size'] = batch_size
 
     train(training_config)
-
