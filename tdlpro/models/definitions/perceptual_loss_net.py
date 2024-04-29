@@ -43,5 +43,5 @@ class Vgg16(torch.nn.Module):
         return out
 
 
-# Set the perceptual loss network to be VGG16
+# Set the perceptual loss network to be vgg16
 PerceptualLossNet = Vgg16
