@@ -49,8 +49,7 @@ class TransformerNet(torch.nn.Module):
         y = self.res5(y)
         y = self.relu(self.in4(self.up1(y)))
         y = self.relu(self.in5(self.up2(y)))
-        # No tanh activation here as originally proposed by J.Johnson, I didn't get any improvements by using it,
-        # if you get better results using it feel free to make a PR
+
         return self.up3(y)
 
 
