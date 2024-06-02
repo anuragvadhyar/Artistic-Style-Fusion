@@ -1,11 +1,11 @@
 Artistic Style Fusion
 
-This project aims to combine a reference/style image with a target image to generate the resulting target image in the style of the reference image
+This project aims to combine a reference/style image with a target image to generate the resulting target image in the style of the reference image using transformer networks and perceptual loss networks.
 
-ADVAITHA S PES2UG21CS040
+ADVAITHA S 
 
-AFNAAN MOHAMMED S PES2UG21CS042
+AFNAAN MOHAMMED S
 
-ANURAG RAJKUMAR VADHYAR PES2UG21CS080
+ANURAG RAJKUMAR VADHYAR
 
-ANUSHRI ANIL PES2UG21CS083
+ANUSHRI ANIL
